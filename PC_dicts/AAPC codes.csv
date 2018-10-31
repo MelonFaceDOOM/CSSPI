@@ -1,0 +1,80 @@
+AAPC,Classification,Name
+200634,Opioid,Alfentanil
+200625,Opioid,Buprenorphine 
+200626,Opioid,Butorphanol
+37701,Opioid,Codeine
+200635,Opioid,Difenoxin
+26000,Opioid,Antidiarreals: Diphenoxylate and Atropine Containing
+200627,Opioid,Dihydrocodeine
+200628,Opioid,Fentanyl
+37702,Opioid,Heroin
+200629,Opioid,"Hydrocodone Alone or in Combination (Excluding Combination Products with Acetaminophen, Acetylsalicylic Acid or Ibuprofen)"
+200630,Opioid,Hydromorphone
+200631,Opioid,Levorphanol
+550000,Opioid,Antidiarreals: Loperamide
+37707,Opioid,Meperidine
+37703,Opioid,Methadone
+37704,Opioid,Morphine
+200636,Opioid,Nalbuphine
+37705,Opioid,Oxycodone Alone or in Combination (Excluding Combination Products with Acetaminophen or Acetylsalicylic Acid)
+200632,Opioid,Oxymorphone
+37706,Opioid,Pentazocine
+78701,Opioid,Propoxyphene
+200638,Opioid,Remifentanil
+200637,Opioid,Sufentanil
+200633,Opioid,Tapentadol
+201131,Opioid,Tramadol
+37708,Opioid,Other or Unknown Narcotics
+72700,Combination,Acetaminophen with Codeine
+41700,Combination,Acetylsalicylic Acid with Codeine
+310048,Combination,Acetaminophen and Codeine with Antihistamine
+310047,Combination,Acetaminophen and Codeine with Decongestant
+310046,Combination,Acetaminophen and Codeine with Decongestant and Antihistamine
+310060,Combination,Acetylsalicylic Acid and Codeine with Antihistamine
+310059,Combination,Acetylsalicylic Acid and Codeine with Decongestant
+310058,Combination,Acetylsalicylic Acid and Codeine with Decongestant and Antihistamine
+310070,Combination,Antihistamine and Decongestant with Codeine
+310071,Combination,Antihistamine with Codeine
+310072,Combination,Decongestant with Codeine
+72691,Combination,"Acetaminophen, Phenylpropanolamine, and Codeine Combinations with Decongestant and/or Antihistamine"
+41691,Combination,"Acetylsalicylic Acid, Phenylpropanolamine, and Codeine Combinations with Decongestant and/or Antihistamine"
+37780,Combination,Antihistamine and/or Decongestant with Phenylpropanolamine and Codeine
+72702,Combination,Acetaminophen with Oxycodone
+41706,Combination,Acetylsalicylic Acid with Oxycodone
+201063,Combination,Acetaminophen with Hydrocodone
+201066,Combination,Ibuprofen with Hydrocodone
+37782,Combination,Antihistamine and/or Decongestant with Phenylpropanolamine and Other Opioid
+41694,Combination,"Acetylsalicylic Acid, Phenylpropanolamine, and Other Opioid Combinations with Decongestant and/or Antihistamine"
+41712,Combination,"Non-Acetylsalicylic Acid Salicylates, Phenylpropanolamine, and Opioid Combinations with Decongestant and/or Antihistamine"
+72694,Combination,"Acetaminophen, Phenylpropanolamine, and Other Opioid Combinations with Decongestant and/or Antihistamine"
+72713,Combination,"Acetaminophen, Acetylsalicylic Acid, Phenylpropanolamine, and Opioid Combinations with Decongestant and/or Antihistamine"
+310040,Combination,"Acetaminophen, Acetylsalicylic Acid, and Opioid with Decongestant and Antihistamine"
+310041,Combination,"Acetaminophen, Acetylsalicylic Acid, and Opioid with Decongestant"
+310042,Combination,"Acetaminophen, Acetylsalicylic Acid, and Opioid with Antihistamine"
+310052,Combination,Acetaminophen and Other Opioid with Decongestant and Antihistamine
+310053,Combination,Acetaminophen and Other Opioid with Decongestant
+310054,Combination,Acetaminophen and Other Opioid with Antihistamine
+310064,Combination,Acetylsalicylic Acid and Other Opioid with Decongestant and Antihistamine
+310065,Combination,Acetylsalicylic Acid and Other Opioid with Decongestant
+310066,Combination,Acetylsalicylic Acid and Other Opioid with Antihistamine
+310076,Combination,Antihistamine and Decongestant with Other Opioid
+310077,Combination,Antihistamine with Other Opioid
+310078,Combination,Decongestant with Other Opioid
+310085,Combination,Non-Acetylsalicylic Acid Salicylates and Opioid with Decongestant and Antihistamine
+310086,Combination,Non-Acetylsalicylic Acid Salicylates and Opioid with Decongestant            
+310087,Combination,Non-Acetylsalicylic Acid Salicylates and Opioid with Antihistamine            
+200617,Cannabis,Tetrahydrocannabinol (THC) Homologs
+200618,Cannabis,Marijuana: Pharmaceutical Preparation
+310033,Cannabis,eCigarettes: Marijuana Device Without Added Flavors
+310034,Cannabis,eCigarettes: Marijuana Device With Added Flavors
+310035,Cannabis,eCigarettes: Marijuana Liquid Without Added Flavors
+310036,Cannabis,eCigarettes: Marijuana Liquid With Added Flavors
+310096,Cannabis,eCigarettes: Marijuana Device Flavor Unknown
+310097,Cannabis,eCigarettes: Marijuana Liquid Flavor Unknown
+310121,Cannabis,Marijuana: Edible Preparation
+310122,Cannabis,Marijuana: Oral Capsule or Pill Preparation
+310123,Cannabis,Marijuana: Undried Plant
+310124,Cannabis,Marijuana: Concentrated Extract (Including Oils and Tinctures)
+310125,Cannabis,Marijuana: Topical Preparation
+310126,Cannabis,Marijuana: Other or Unknown Preparation
+83000,Cannabis,Marijuana: Dried Plant 
