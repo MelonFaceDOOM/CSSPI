@@ -1,0 +1,40 @@
+Master,IWK_cannabis,OPC_cannabis,PADIS_2016_cannabis,PADIS_2017_cannabis
+CaseNumber,CaseNumber,case_no,CaseNumber,CaseID
+Age,Age,NULL,PatAge,NULL
+AgeGroup,AgeGroup,age_group,NULL,AgeGroup
+SEX,SEX,sex,Pat Gender,Sex
+Weight,Weight,NULL,NULL,NULL
+DateOfExposure,DateOfExposure,exp_date,NULL,DateofExposure
+TimeOfExposure,TimeOfExposure,exp_time,TimeOfExposure,TimeofExposure
+DateOfCall,DateOfCall,call_date,StartDate,CallDate
+TimeOfCall,TimeOfCall,call_time,NULL,TimeofCall
+LanguageOfCall,LanguageOfCall,NULL,NULL,NULL
+CallType,CallType,call_type,Call Type,CallType
+Reason,Reason,reason,Exposure  Reason,Reason
+ExposureSite,ExposureSite,exp_site,Exposure  Site,ExposureSite
+CallerSite,CallerSite,NULL,Caller Site,NULL
+CallerRelation,CallerRelation,NULL,Caller Rel To Pat,NULL
+FSA,FSA,NULL,NULL,NULL
+CallerCity,CallerCity,city,CallerCity,City
+Province,Province,province,ProvinceCode,Province
+Hospital,Hospital,NULL,NULL,NULL
+SubstanceGenericAAPCCCode,SubstanceGenericAAPCCCode,generic_aa,NULL,SubstanceGenericCode (AAPCC code)
+SubstanceProdCode,SubstanceProdCode,NULL,NULL,SusbtanceProduct (Poisindex Code)
+SubstanceFormula,SubstanceFormula,hc_cannabis_base_bardesc,NULL,SubtanceFormulation
+SubstanceQty,SubstanceQty,NULL,NULL,NULL
+SubstanceQtyUnits,SubstanceQtyUnits,NULL,NULL,NULL
+SubstanceCalculation,SubstanceCalculation,NULL,NULL,NULL
+TherapyOption,TherapyOption,NULL,Therapy Opt,NULL
+Treatment,Treatment,treatments,NULL,Treatment
+Symptoms,Symptoms,dbo_pvdlbrcd_bardesc,NULL,Symptoms
+Route,Route,routes,NULL,ExposureRoute
+PatientFlow,PatientFlow,pat_flow,Management Site,PatientFlow
+HospitalFlow,HospitalFlow,hosp_flow,Mananged HCF,HospitalFlow
+OutCome,OutCome,outcome,Medical Outcome,Outcome
+Acuity,Acuity,acuity,NULL,Acuity
+Consultation,Consultation,NULL,NULL,NULL
+FollowUp,FollowUp,NULL,NULL,NULL
+PastMedicalHistory,PastMedicalHistory,NULL,NULL,NULL
+CaseStatus,CaseStatus,NULL,NULL,NULL
+ExposureDuration,ExposureDuration,exp_dur,Clini Effs Duration,ExposureDuration
+**Substance**,**Substance**,verbatimdesc,NULL,Subtsance Verbatim

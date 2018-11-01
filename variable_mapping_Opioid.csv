@@ -1,0 +1,40 @@
+Master,IWK_opioid,OPC_opioid,PADIS_2016_opioid,PADIS_2017_opioid
+CaseNumber,CaseNumber,case_no,CaseID,CaseID
+Age,Age,NULL,NULL,NULL
+AgeGroup,AgeGroup,age_group,AgeGroup,AgeGroup
+SEX,SEX,sex,Sex,Sex
+Weight,Weight,NULL,NULL,NULL
+DateOfExposure,DateOfExposure,exp_date,NULL,DateofExposure
+TimeOfExposure,TimeOfExposure,exp_time,TimeofExposure,TimeofExposure
+DateOfCall,DateOfCall,call_date,CallDate,CallDate
+TimeOfCall,TimeOfCall,call_time,NULL,TimeofCall
+LanguageOfCall,LanguageOfCall,NULL,NULL,NULL
+CallType,CallType,call_type,CallType,CallType
+Reason,Reason,reason,Reason,Reason
+ExposureSite,ExposureSite,exp_site,ExposureSite,ExposureSite
+CallerSite,CallerSite,NULL,NULL,NULL
+CallerRelation,CallerRelation,NULL,NULL,NULL
+FSA,FSA,NULL,NULL,NULL
+CallerCity,CallerCity,city,City,City
+Province,Province,province,Province,Province
+Hospital,Hospital,NULL,NULL,NULL
+SubstanceGenericAAPCCCode,SubstanceGeneric_AAPCC_Code,generic_aa,AAPC_manual,SubstanceGenericCode (AAPCC code)
+SubstanceProdCode,SubstanceProductCode,NULL,NULL,SusbtanceProduct (Poisindex Code)
+SubstanceFormula,SubstanceFormula_20c,hc_opioids base.bardesc,SubtanceFormulation,SubtanceFormulation
+SubstanceQty,SubstanceQty,NULL,NULL,NULL
+SubstanceQtyUnits,SubstanceQtyUnits,NULL,NULL,NULL
+SubstanceCalculation, SubstanceCalculation,NULL,NULL,NULL
+TherapyOption,Therapy,NULL,NULL,NULL
+Treatment,Treatment,treatments,Treatment,Treatment
+Symptoms,Symptoms,dbo_pvdlbrcd.bardesc,Symptoms,Symptoms
+Route,RouteExp,routes,ExposureRoute,ExposureRoute
+PatientFlow,PatientFlow,pat_flow,PatientFlow,PatientFlow
+HospitalFlow,HospitalFlow,hosp_flow,HospitalFlow,HospitalFlow
+OutCome,OutCome,outcome,Outcome,Outcome
+Acuity,Acuity,acuity,Acuity,Acuity
+Consultation,Consultation,NULL,NULL,NULL
+FollowUp,FollowUp,NULL,NULL,NULL
+PastMedicalHistory,PastMedicalHistory,NULL,NULL,NULL
+CaseStatus,CaseStatus,NULL,NULL,NULL
+ExposureDuration,ExposureDuration,exp_dur,NULL,NULL
+**Substance**,**Substance**,verbatimdesc,Subtsance Verbatim,Subtsance Verbatim
